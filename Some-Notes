@@ -1,0 +1,13 @@
+I created this CRUD just to put my knowledge to the test.
+
+It's a little bit clumsy and ugly, but it was just a quick project to see if I understood the CRUD basics.
+
+The idea behind it is to view all the users, create a new user (I reused my Subscription to do it), and delete. The main objective was to simulate an admin that has all rights over the accounts.
+
+My next plan is to implement this CRUD in an "e-commerce" type of project.
+
+There's no documentation for the code. I plan to create it when I implement it in the e-commerce project.
+
+If you have any questions about the implementation or the use of this code, send me a message through my LinkedIn (it's in my Git bio).
+
+Thanks for reading!
